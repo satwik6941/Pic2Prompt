@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Captioner & Prompter",
+  "description": "An intelligent tool to generate detailed captions for AI model training or create descriptive prompts to regenerate images using the Gemini API.",
+  "requestFramePermissions": []
+}
